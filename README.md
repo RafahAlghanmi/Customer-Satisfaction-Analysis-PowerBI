@@ -36,5 +36,15 @@ This project analyzes customer satisfaction and feedback using a simulated datas
 - `Customer_Feedback_Data.xlsx` – Excel survey responses file
 
 ---
+## 🚧 Future Improvements (Planned Updates)
+
+This is the first version of the project. I plan to enhance it further by:
+
+- Automating the data collection and notification process using **n8n**.
+- Adding **drillthrough** and **tooltip** pages in Power BI.
+- Enhancing visual storytelling and layout clarity.
+- Simulating real-world business scenarios more deeply.
+
+Next version will represent a fully automated, smart feedback analysis system.
 
 > Developed by Rafah Alghanmi – June 2025
